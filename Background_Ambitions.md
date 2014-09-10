@@ -1,5 +1,5 @@
 #Xi Rao: Background and Ambitions
-I'm Xi Rao, an Information Architecture student at Illinois Institute of Technology. I've earned a bachelor's degree on Software Engineering at Huazhong University of Science and Technology( HUST). 
+I'm Xi Rao, an Information Architecture student at Illinois Institute of Technology. I've earned a bachelor's degree on Software Engineering at Huazhong University of Science and Technology(HUST). 
 
 I'm interested in information design, user experience research and photography. I came to Chicago in 2013, from Wuhan, China, pursuing my dream of becoming an Information Designer, which I believe I can make a reality in the United States. It’s hard as well as fun to face the conflicts of inter-cultural communication every day. 
 
