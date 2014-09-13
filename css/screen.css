@@ -1,0 +1,56 @@
+html {
+	font-size: 16px;
+	line-height: 24px;
+	font-family: "FF Tisa Pro", "Tisa Pro", Helvetica;
+}
+
+body {
+	background: url("utilities/tiny_grid.png");
+	height: inherit;
+	width: 100%;
+}
+
+#page {
+	padding: 2em 4em;
+	text-align: center;
+}
+
+#page h1 {
+	font-size: 2.4em;
+	color: #E74C3C;
+}
+
+#content {
+	width: 100%;
+	padding: 3em 0;
+	text-align: center;
+}
+#content p {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	color: #2C3E50;
+	font-family: "FF Tisa Sans Pro", "Tisa Sans Pro", Helvetica;
+	position: relative;
+	text-align: left;
+	/*float: left;*/
+}
+
+#content a {
+	color: inherit;
+	font-style: italic;
+}
+
+#content strong {
+	font-weight: bold;
+}
+
+#profile {
+	width: 38%; 
+	float: left;
+	position: relative;
+	padding: 0 1em;
+}
+
+#profile img {
+	width: 90%;
+}
