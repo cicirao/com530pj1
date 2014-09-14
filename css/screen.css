@@ -33,7 +33,7 @@ body {
 	font-family: "FF Tisa Sans Pro", "Tisa Sans Pro", Helvetica;
 	position: relative;
 	text-align: left;
-	/*float: left;*/
+	padding-bottom: 1.2em;
 }
 
 #content a {
