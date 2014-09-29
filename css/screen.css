@@ -1,7 +1,7 @@
 html {
   font-size: 16px;
   line-height: 24px;
-  font-family: "FF Tisa Pro", "Tisa Pro", Helvetica;
+  font-family: "FF Tisa Sans Pro", "Tisa Sans Pro", Helvetica, Sans-serif;
 }
 
 body {
@@ -9,7 +9,9 @@ body {
   height: inherit;
   width: 100%;
 }
-
+h1, h2, h3, h4 {
+  font-family: "FF Tisa Pro", "Tisa Pro", serif;
+}
 #page {
   padding: 2em 4%;
   text-align: center;
@@ -30,7 +32,6 @@ body {
   font-size: 1.2em;
   line-height: 1.5em;
   color: #2C3E50;
-  font-family: "FF Tisa Sans Pro", "Tisa Sans Pro", Helvetica;
   position: relative;
   text-align: left;
   padding-bottom: 1.2em;
